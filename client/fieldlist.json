@@ -1,0 +1,30 @@
+{
+  "email": {
+    "type": "text",
+    "voice": "Please specify your email address."
+  },
+  "title": {
+    "type": "select",
+    "voice": "Please select your title. The options are Mr, Mrs, Miss and Ms."
+  },
+  "firstName": {
+    "type": "text",
+    "voice": "Please specify your first name."
+  },
+  "middleName": {
+    "type": "text",
+    "voice": "Do you have a middle name? If yes, plase specify. If no, please ask me to skip."
+  },
+  "lastName": {
+    "type": "text",
+    "voice": "Please specify your surname."
+  },
+  "acceptTnc": {
+    "type": "checkbox",
+    "voice": "Do you accept the Terms and Conditions. Specify yes or no."
+  },
+  "saveAndSubmit": {
+    "type": "button",
+    "voice": "I am going to save and submit your form. Specify yes or no."
+  }
+}
